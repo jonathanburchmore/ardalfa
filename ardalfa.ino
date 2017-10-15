@@ -1,3 +1,9 @@
+/*
+ * :vi ts=4 sts=4 sw=4
+ *
+ * Copyright (c) Jonathan Burchmore
+ */
+
 #include <Servo.h>
 
 #define DIRECT_INPUT_FOLLOWS   0xFF
